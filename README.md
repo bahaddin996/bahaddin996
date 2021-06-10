@@ -1,6 +1,6 @@
 ### Hi, Welcome to my Github 👋
-**Technologies I've been learning and using so far :**
-### Languages
+**Technologies I've been learning and using so far :**<br>
+-Programming Languages<br>
 <p align="center">
     <img width="10%" style="padding:5px" src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
     <img width="10%" style="padding:5px" src="https://img.shields.io/badge/-C-000?&logo=C"/>
