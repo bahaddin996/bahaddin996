@@ -1,5 +1,5 @@
 ### Hi, Welcome to my Github 👋
-###Technologies I've been learning and using so far :
+**Technologies I've been learning and using so far :**
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
